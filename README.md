@@ -39,6 +39,7 @@ node step1-test.mjs
 ```
 Phase 4: Final Deployment Script (Step 2)
 Now we will create the main script that:
+
 1-Connects to your wallet.
 2-Checks/Creates a Personal Space.
 3-Publishes your profile to IPFS.
